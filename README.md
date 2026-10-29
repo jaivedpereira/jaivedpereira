@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="DO MORE." width="100%">
+<img src="assets/banner-do-more.jpg" alt="DO MORE." width="100%">
 
 <h1 align="center">Jaíved Pereira</h1>
 
